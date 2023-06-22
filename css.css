@@ -1,0 +1,36 @@
+
+.baslik{
+    font-size: 150px;
+    color:white
+}
+.griyazi{
+    color:gray
+}
+.beyazyazi{
+    color:white
+}
+.icon{
+    width: 80;
+    height: 80;
+    float:left;
+}
+#anasayfa{
+    background-image: url("https://cdn.discordapp.com/attachments/961715098601287733/1067038961601617970/masaustu2.png");
+    background-size:cover;
+    width: 100%;
+    height: 100%;
+}
+#projeler{
+    background-image: url("https://cdn.discordapp.com/attachments/961715098601287733/1067127999243235418/fhgfsh.jpeg");
+    background-size:cover;
+    width: 100%;
+    height: 100%;
+}
+#hakkımda{
+    background-size:cover;
+    width: 100%;
+    height:30%;
+}
+#genel{
+    background-color: black;
+}
